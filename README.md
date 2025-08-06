@@ -17,8 +17,7 @@ A simple Tkinter-based GUI app to track card plays in the Indian card game **Bha
 
 ## 🖼️ Screenshot
 
-
-<img width="438" height="251" alt="image" src="https://github.com/user-attachments/assets/80bf8888-3c35-4ca7-ac7b-b73a2085d128" />
+<img width="1611" height="768" alt="{1D976CBE-0063-4058-A6A2-461C59B404D6}" src="https://github.com/user-attachments/assets/9dfb3387-1457-471a-8a8d-5087aa6f0344" />
 
 ---
 
@@ -28,3 +27,11 @@ A simple Tkinter-based GUI app to track card plays in the Indian card game **Bha
 ```bash
 git clone https://github.com/your-username/bhabhi-card-tracker.git
 cd bhabhi-card-tracker
+
+**### 2. Install dependencies**
+'''bash
+pip install Pillow
+
+**### 3. Run the app**
+'''bash
+python main.py
